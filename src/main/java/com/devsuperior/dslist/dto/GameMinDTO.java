@@ -10,7 +10,7 @@ public class GameMinDTO {
     private String imgUrl;
     private String shortDescription;
 
-    //Repository - é o objeto responsavel por fazer consultas no banco de dados
+    //Repository - responsavel por fazer consultas no banco de dados
 
     public GameMinDTO(Game entity) {
         id = entity.getId();
