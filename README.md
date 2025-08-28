@@ -1,5 +1,5 @@
 # Projeto lista de jogos 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/pedrohf0001/dslist/blob/main/LICENSE) 
+[![NPM]([https://img.shields.io/npm/l/react](https://img.shields.io/badge/any_text-you_like-blue))](https://github.com/pedrohf0001/dslist/blob/main/LICENSE) 
 
 # Sobre o projeto
 
@@ -74,4 +74,4 @@ yarn start
 
 Wellington Mazoni de Andrade
 
-https://www.linkedin.com/in/wmazoni
+www.linkedin.com/in/pedro-fonseca-14a65a118
