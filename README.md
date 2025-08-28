@@ -34,7 +34,7 @@ A aplicação consiste em uma lista de games, onde os dados são classificados e
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/pedrohf0001/assets/blob/dc4ac4fcbc1e8e30a8189cce7ec841376a735424/img/Modelo%20de%20Relacionamento%20usado%20para%20exemplo%20.png)
 
 # Tecnologias utilizadas
 ## Back end
