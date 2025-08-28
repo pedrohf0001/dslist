@@ -25,13 +25,8 @@ A aplicação consiste em uma lista de games, onde os dados são classificados e
 • Processo de deploy com CI/CD
 • Configuração de CORS
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+## Rotorno API - teste Postman
+![Modelo Conceitual](https://github.com/pedrohf0001/assets/blob/55bb4fda2ab380b0af8c3bf66adc144047d523bf/img/retorno%20API%20postman%20-%20Game.png)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/pedrohf0001/assets/blob/dc4ac4fcbc1e8e30a8189cce7ec841376a735424/img/Modelo%20de%20Relacionamento%20usado%20para%20exemplo%20.png)
