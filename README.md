@@ -1,5 +1,5 @@
 # Projeto lista de jogos 
-[![NPM]([https://img.shields.io/npm/l/react])](https://github.com/pedrohf0001/dslist/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 # Sobre o projeto
 
@@ -72,6 +72,6 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
+Pedro Henrique Fonseca
 
 www.linkedin.com/in/pedro-fonseca-14a65a118
