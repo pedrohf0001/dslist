@@ -1,5 +1,5 @@
-# Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+# Projeto Site lista de jogos 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/pedrohf0001/dslist/blob/main/LICENSE) 
 
 # Sobre o projeto
 
