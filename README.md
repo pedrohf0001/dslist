@@ -3,9 +3,27 @@
 
 # Sobre o projeto
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+A Lista de Jogos é uma aplicação Back End construída durante a **Intencivão DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+A aplicação consiste em uma lista de games, onde os dados são classificados em duas listas, Aventura, RPG e jogos de Plataforma, o objetivo principal foi passar por todo o desenvolvimento de um projeto Java Spring, usando os conceitos:
+
+• Sistemas web e recursos
+• Cliente/servidor, HTTP, JSON
+• Padrão Rest para API web
+• Estruturação de projeto Spring Rest
+• Entidades e ORM
+• Database seeding
+• Padrão camadas
+• Controller, service, repository
+• Padrão DTO
+• Relacionamentos N-N
+• Classe de associação, embedded id
+• Consultas SQL no Spring Data JPA
+• Projections
+• Ambiente local com Docker Compose
+• Processo de homologação local
+• Processo de deploy com CI/CD
+• Configuração de CORS
 
 ## Layout mobile
 ![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
