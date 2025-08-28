@@ -1,9 +1,9 @@
 # Projeto lista de jogos 
-[![NPM](https://img.shields.io/badge/:badgeContent)](https://github.com/pedrohf0001/dslist/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/pedrohf0001/dslist/blob/main/LICENSE) 
 
 # Sobre o projeto
 
-A Lista de Jogos é uma aplicação Back End construída durante a **Intencivão DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+A Lista de Jogos é uma aplicação Back End construída durante a **Intencivão DevSuperior**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação consiste em uma lista de games, onde os dados são classificados em duas listas, Aventura, RPG e jogos de Plataforma, o objetivo principal foi passar por todo o desenvolvimento de um projeto Java Spring, usando os conceitos:
 
@@ -70,3 +70,4 @@ Em Desenvolvimento.
 Pedro Henrique Fonseca
 
 www.linkedin.com/in/pedro-fonseca-14a65a118
+
