@@ -26,23 +26,21 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 - Maven
 ## Front end
 - HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
+- Em Desenvolvimento...
+  
 ## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
+- Back end: Railway
+- Front end web: ...
 - Banco de dados: Postgresql
 
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: Java 11
+Pré-requisitos: Java 17
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/pedrohf0001/dslist.git
 
 # entrar na pasta do projeto back end
 cd backend
@@ -52,21 +50,7 @@ cd backend
 ```
 
 ## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
+Em Desenvolvimento.
 
 # Autor
 
