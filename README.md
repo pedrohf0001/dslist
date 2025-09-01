@@ -31,6 +31,9 @@ A aplicação consiste em uma lista de games, onde os dados são classificados e
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/pedrohf0001/assets/blob/dc4ac4fcbc1e8e30a8189cce7ec841376a735424/img/Modelo%20de%20Relacionamento%20usado%20para%20exemplo%20.png)
 
+## Deploy Homologação Docker-compose Local
+![Modelo Conceitual](https://github.com/pedrohf0001/assets/blob/8c4344c9cc55c4aee98aa0982a7888c20755a733/pg-admin%20-%20criando%20respositorio%20de%20homologa%C3%A7%C3%A3o.png)
+
 # Tecnologias utilizadas
 ## Back end
 - Java
