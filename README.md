@@ -34,6 +34,9 @@ A aplicação consiste em uma lista de games, onde os dados são classificados e
 ## Deploy Homologação Docker-compose Local
 ![Modelo Conceitual](https://github.com/pedrohf0001/assets/blob/8c4344c9cc55c4aee98aa0982a7888c20755a733/pg-admin%20-%20criando%20respositorio%20de%20homologa%C3%A7%C3%A3o.png)
 
+## Deploy Prod Railway / CI /CD e esteira
+![Modelo Conceitual](https://github.com/pedrohf0001/assets/blob/dac37b16f494e61fbcc8b1f0d27b50c2b8d270f2/Esteria%20CI-CD-railway.png)
+
 # Tecnologias utilizadas
 ## Back end
 - Java
