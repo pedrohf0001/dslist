@@ -31,6 +31,9 @@ A aplicação consiste em uma lista de games, onde os dados são classificados e
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/pedrohf0001/assets/blob/dc4ac4fcbc1e8e30a8189cce7ec841376a735424/img/Modelo%20de%20Relacionamento%20usado%20para%20exemplo%20.png)
 
+## Deploy Banco H2 test
+![Modelo Conceitual](https://github.com/pedrohf0001/assets/blob/a32802e646b657c34cd9e2d7eedb9fcd18da5192/Base%20test%20H2.png)
+
 ## Deploy Homologação Docker-compose Local
 ![Modelo Conceitual](https://github.com/pedrohf0001/assets/blob/8c4344c9cc55c4aee98aa0982a7888c20755a733/pg-admin%20-%20criando%20respositorio%20de%20homologa%C3%A7%C3%A3o.png)
 
